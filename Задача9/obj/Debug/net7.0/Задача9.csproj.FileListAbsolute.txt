@@ -1,0 +1,15 @@
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\bin\Debug\net7.0\Задача9.exe
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\bin\Debug\net7.0\Задача9.deps.json
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\bin\Debug\net7.0\Задача9.runtimeconfig.json
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\bin\Debug\net7.0\Задача9.dll
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\bin\Debug\net7.0\Задача9.pdb
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\Задача9.csproj.AssemblyReference.cache
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\Задача9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\Задача9.AssemblyInfoInputs.cache
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\Задача9.AssemblyInfo.cs
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\Задача9.csproj.CoreCompileInputs.cache
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\Задача9.dll
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\refint\Задача9.dll
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\Задача9.pdb
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\Задача9.genruntimeconfig.cache
+C:\Users\akordel\Desktop\я\Курсы\Работа на семинаре2\Задача9\obj\Debug\net7.0\ref\Задача9.dll
